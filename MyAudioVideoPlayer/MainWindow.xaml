@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyAudioVideoPlayer"
         mc:Ignorable="d"
-        Title="MainWindow" Height="517.535" Width="525">
+        Title="MainWindow" Height="517.535" Width="525"> 
     <Grid>
         <TextBox Name="textBox1" HorizontalAlignment="Left" Height="23" Margin="40,89,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="209" />
         <Button x:Name="Browse" Content="Browse" HorizontalAlignment="Left" Margin="265,89,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="Button_Click"/>
