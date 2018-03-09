@@ -28,7 +28,7 @@ namespace MyAudioVideoPlayer
         public void Button_Click(object sender, RoutedEventArgs e)
         {
 
-            // Create OpenFileDialog 
+            // Create OpenFileDialog  ...
             Microsoft.Win32.OpenFileDialog dlg = new Microsoft.Win32.OpenFileDialog();
 
             dlg.Filter = "mp3 files (*.mp3)|*.mp3|wmv files(*.wmv) | *.wmv|mp4 files (*.mp4)|*.mp4";
